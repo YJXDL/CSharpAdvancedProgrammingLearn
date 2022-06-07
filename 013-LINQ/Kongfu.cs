@@ -14,5 +14,10 @@ namespace _013_LINQ
         public int Id { get; set; }
         public string Name { get; set; }
         public int Power { get; set; }
+
+        public override string ToString()
+        {
+            return $"{{{nameof(Id)}={Id.ToString()}, {nameof(Name)}={Name}, {nameof(Power)}={Power.ToString()}}}";
+        }
     }
 }
