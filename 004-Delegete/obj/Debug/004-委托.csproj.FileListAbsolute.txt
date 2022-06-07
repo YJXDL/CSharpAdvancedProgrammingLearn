@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\bin\Debug\004-Delegete.exe.config
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\bin\Debug\004-Delegete.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\bin\Debug\004-Delegete.pdb
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\obj\Debug\004-委托.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\obj\Debug\004-委托.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\obj\Debug\004-Delegete.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\004-Delegete\obj\Debug\004-Delegete.pdb

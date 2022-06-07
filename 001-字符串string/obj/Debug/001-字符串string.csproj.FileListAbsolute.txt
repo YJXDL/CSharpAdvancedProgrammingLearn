@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\bin\Debug\001-字符串string.exe.config
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\bin\Debug\001-字符串string.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\bin\Debug\001-字符串string.pdb
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\obj\Debug\001-字符串string.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\obj\Debug\001-字符串string.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\obj\Debug\001-字符串string.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\001-字符串string\obj\Debug\001-字符串string.pdb
