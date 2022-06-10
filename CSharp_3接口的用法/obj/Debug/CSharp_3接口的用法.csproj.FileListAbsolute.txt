@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\bin\Debug\CSharp_3接口的用法.exe.config
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\bin\Debug\CSharp_3接口的用法.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\bin\Debug\CSharp_3接口的用法.pdb
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\obj\Debug\CSharp_3接口的用法.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\obj\Debug\CSharp_3接口的用法.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\obj\Debug\CSharp_3接口的用法.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_3接口的用法\obj\Debug\CSharp_3接口的用法.pdb

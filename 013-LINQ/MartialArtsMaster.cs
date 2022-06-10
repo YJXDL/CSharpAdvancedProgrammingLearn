@@ -18,16 +18,5 @@ namespace _013_LINQ
         public string Kongfu { get; set; }
         public int Level { get; set; }
 
-        public override string ToString()
-        {
-            return $"{{{nameof(Id)}={Id.ToString()}, {nameof(Name)}={Name}, {nameof(Age)}={Age.ToString()}, {nameof(MenPai)}={MenPai}, {nameof(Kongfu)}={Kongfu}, {nameof(Level)}={Level.ToString()}}}";
-        }
-
-
-
-        //public override string ToString()
-        //{
-        //    return "编号："+Id.ToString()  + " 姓名：" + Name;
-        //}
     }
 }

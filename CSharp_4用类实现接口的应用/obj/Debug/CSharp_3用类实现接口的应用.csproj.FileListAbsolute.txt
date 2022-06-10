@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\bin\Debug\CSharp_4用类实现接口的应用.exe.config
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\bin\Debug\CSharp_4用类实现接口的应用.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\bin\Debug\CSharp_4用类实现接口的应用.pdb
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\obj\Debug\CSharp_3用类实现接口的应用.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\obj\Debug\CSharp_3用类实现接口的应用.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\obj\Debug\CSharp_4用类实现接口的应用.exe
+C:\Users\闫晶鑫\source\repos\学习CSharp编程 高级编程\CSharp_4用类实现接口的应用\obj\Debug\CSharp_4用类实现接口的应用.pdb
