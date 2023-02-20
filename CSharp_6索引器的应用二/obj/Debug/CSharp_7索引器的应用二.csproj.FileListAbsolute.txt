@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\bin\Debug\CSharp_6索引器的应用二.exe.config
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\bin\Debug\CSharp_6索引器的应用二.exe
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\bin\Debug\CSharp_6索引器的应用二.pdb
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\obj\Debug\CSharp_7索引器的应用二.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\obj\Debug\CSharp_7索引器的应用二.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\obj\Debug\CSharp_6索引器的应用二.exe
+C:\Users\闫晶鑫\Documents\学习\C-\CSharp_6索引器的应用二\obj\Debug\CSharp_6索引器的应用二.pdb

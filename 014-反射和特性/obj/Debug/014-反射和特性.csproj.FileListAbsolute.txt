@@ -1,0 +1,10 @@
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\bin\Debug\014-反射和特性.exe.config
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\bin\Debug\014-反射和特性.exe
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\bin\Debug\014-反射和特性.pdb
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\014-反射和特性.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\_014_反射和特性.Form1.resources
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\_014_反射和特性.Properties.Resources.resources
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\014-反射和特性.csproj.GenerateResource.cache
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\014-反射和特性.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\014-反射和特性.exe
+C:\Users\闫晶鑫\Documents\学习\C-\014-反射和特性\obj\Debug\014-反射和特性.pdb
